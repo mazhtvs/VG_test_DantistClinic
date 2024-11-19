@@ -447,6 +447,9 @@ ul {
     top: 12px;
 }
 
+.mob_babayan{
+    display: none;
+}
 
 .h2_star{
     display: flex;
@@ -965,7 +968,7 @@ footer{
         margin: 20px;
     }
     h1{
-        margin-left: 10px;
+        padding-left: 40px;
     }
     .promo_doctor_card_3, .promo_doctor_card_4, .promo_doctor_card_2{
         display: none;
@@ -1215,6 +1218,47 @@ footer{
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
+    }
+    .promo_info_card h4 {
+        margin-bottom: 10px;
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .promo_info_card p {
+        margin-bottom: 15px;
+        font-size: 10px;
+        line-height: 1.5;
+        color: #666;
+    }
+    .promo_info_card{
+        width: 95%;
+    }
+    .babayan{
+        display: none;
+    }
+    .mob_babayan{
+        width: 70%;
+        position: relative;
+    }
+    .mob_babayan img{
+        position: absolute;
+        width: 100%;
+        bottom: 100%;
+    }
+}
+
+@media (max-width: 376px) {
+    p{
+        font-size: 10px;
+    }
+    .promo_content{
+        margin-left: 0;
+    }
+    .babayan img {
+        width: 70%;
+    }
+    .rating-block{
+        min-width: 200px;
     }
 }
 
