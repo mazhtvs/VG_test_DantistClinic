@@ -27,8 +27,8 @@ button{
 
 .btn_more{
     background-color: #fff;
-    border: solid 1px red;
-    color: red;
+    border: solid 1px #E2224F;
+    color: #E2224F;
     height: 50px;
     box-shadow: none;
     padding: 20px;
