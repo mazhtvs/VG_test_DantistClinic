@@ -363,7 +363,7 @@ ul {
     align-items: center;
 }
 .slider .slide {
-    height: 400px;
+    height: 100%;
     width: 20vw;
     text-align: center;
     padding: 20px;
