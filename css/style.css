@@ -360,6 +360,7 @@ ul {
 
 .slider {
     margin-top: 20px;
+    align-items: center;
 }
 .slider .slide {
     height: 400px;
