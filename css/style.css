@@ -1291,8 +1291,43 @@ footer{
     }
 }
 
-@media (min-width: 1501px){
+@media (min-width: 1501px) and (max-width: 1600px){
     .babayan{
         left: 13%;
+    }
+}
+@media (min-width: 1601px) and (max-width: 1700px){
+    .babayan{
+        left: 15%;
+    }
+}
+@media (min-width: 1701px) and (max-width: 1800px){
+    .babayan{
+        left: 17%;
+    }
+}
+@media (min-width: 1801px) and (max-width: 1900px){
+    .babayan{
+        left: 19%;
+    }
+}
+@media (min-width: 1901px) and (max-width: 2000px){
+    .babayan{
+        left: 21%;
+    }
+}
+@media (min-width: 2001px) and (max-width: 2100px){
+    .babayan{
+        left: 21%;
+    }
+}
+@media (min-width: 2101px) and (max-width: 2200px){
+    .babayan{
+        left: 23%;
+    }
+}
+@media (min-width: 2201px) {
+    .babayan{
+        left: 25%;
     }
 }
