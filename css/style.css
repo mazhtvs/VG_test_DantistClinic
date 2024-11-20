@@ -362,6 +362,7 @@ ul {
     margin-top: 20px;
 }
 .slider .slide {
+    height: 400px;
     width: 20vw;
     text-align: center;
     padding: 20px;
