@@ -805,6 +805,7 @@ footer{
 .footer_main_left{
     display: flex;
     flex-direction: column;
+    width: 30%;
 }
 .footer_row{
     display: flex;
@@ -841,6 +842,7 @@ footer{
     display: flex;
     flex-direction: column;
     text-align: right;
+    width: 30%;
 }
 
 .footer_main_right .footer_row{
