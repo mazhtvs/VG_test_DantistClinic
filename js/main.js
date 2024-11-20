@@ -27,7 +27,7 @@ $(document).ready(function () {
 $(document).ready(function () {
     $('.vertical-slider').slick({
         vertical: true,
-        slidesToShow: 5,
+        slidesToShow: 6,
         slidesToScroll: 1,
         arrows: true, 
         prevArrow: '<button class="slick-prev"></button>',
