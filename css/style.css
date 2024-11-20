@@ -798,6 +798,7 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    overflow: hidden;
 }
 
 .footer_main_left{
