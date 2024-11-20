@@ -855,7 +855,8 @@ footer{
 
 .map_container {
     width: 400px;
-    height: 240px;
+    height: 400px;
+    margin-bottom: -20px;
     position: relative;
     overflow: hidden; 
     border-radius:100%;
