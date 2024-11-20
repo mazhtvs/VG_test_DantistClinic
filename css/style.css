@@ -858,10 +858,7 @@ footer{
     height: 240px;
     position: relative;
     overflow: hidden; 
-    border-top-left-radius: 150px;
-    border-top-right-radius: 150px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-radius:50%;
     border: solid 1px red;
     border-bottom: none;
 }
