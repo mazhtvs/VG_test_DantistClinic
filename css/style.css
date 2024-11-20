@@ -118,7 +118,7 @@ ul {
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: red;
+    background-color: #E2224F;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -189,7 +189,7 @@ ul {
 .rating-number {
     font-size: 165px;
     font-weight: bold;
-    color: red;
+    color: #E2224F;
     line-height: 1;
 }
 
@@ -394,7 +394,7 @@ ul {
 }
 .actions button {
     padding: 10px 15px;
-    background-color: red;
+    background-color: #E2224F;
     color: white;
     border: none;
     border-radius: 5px;
@@ -909,7 +909,7 @@ footer{
     .phone_block{
         width: 40px;
         height: 40px;
-        background-color: red;
+        background-color: #E2224F;
     }
     .phone_icon_circle{
         width: 30px;
