@@ -854,14 +854,12 @@ footer{
 }
 
 .map_container {
-    width: 400px;
     height: 400px;
-    margin-bottom: -20px;
+    margin-bottom: -50px;
     position: relative;
     overflow: hidden; 
     border-radius:100%;
     border: solid 1px red;
-    border-bottom: none;
 }
 
 .map_container iframe {
